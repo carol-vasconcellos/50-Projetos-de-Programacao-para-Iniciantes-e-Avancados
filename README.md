@@ -1,4 +1,4 @@
-# 50 Projetos de Programação para Iniciantes e Avançados (2 BONUS)🚀
+# 50 Projetos de Programação para Iniciantes e Avançados (3 BONUS)🚀
 
 Este repositório é uma coletânea de **50 ideias de projetos** de programação que o site **codedex.io**  colocou como prática. Divididas em três níveis de dificuldade, do básico ao avançado. O objetivo é oferecer uma **trilha de aprendizado prática** para programadores de todos os níveis que buscam consolidar conceitos, aprender novas tecnologias e construir um portfólio sólido.
 
@@ -51,6 +51,7 @@ Projetos que exigem a manipulação de dados, estruturas mais complexas e a pers
 | 🪐 Horoscope |
 | 🫱 Rock Paper Scissors AVANÇADO| **BONUS**
 | 🫱 Rock Paper Scissors Lizard Spock AVANÇADO| **BONUS
+| 📝 Simple Translator | **BONUS**
 | 📋 To-Do Lists |
 | 🛒 Grocery |
 | 💖 Faves List |
